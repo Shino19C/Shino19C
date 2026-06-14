@@ -2,7 +2,7 @@
 
 
 # What's good?
-My name's Anshuman, and I was born without my consent.
+My name's Shino, and I was born without my consent.
 
 ## 💡 Can work with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
